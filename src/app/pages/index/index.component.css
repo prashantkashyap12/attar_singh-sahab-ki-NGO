@@ -1,0 +1,14 @@
+.mask{
+    border:1px solid #eeee;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+  }
+.mask > .darkab{
+  padding: 7px 12px;
+  background-color: #FF5722;
+  color: #fff;
+}
+.info a{
+  color: #FF5722;
+}

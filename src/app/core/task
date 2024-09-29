@@ -1,0 +1,6 @@
+Constant => api Constant | validation Message | reg Exp |aws | email
+Models => class | interface |
+Services => utility | Module Services | genric Service |subjcet | behviourSubject
+Enums => optional ?
+Guards => canActivate | canDeactivate |
+Interceptors => tokenInterceptor | header | errorInterceptor | respoonse
